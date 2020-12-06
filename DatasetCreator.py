@@ -1,4 +1,4 @@
-# imports
+# Imports
 import numpy as np
 import music21 as m21
 
