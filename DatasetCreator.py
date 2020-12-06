@@ -1,3 +1,7 @@
+# imports
+import numpy as np
+import music21 as m21
+
 def measures_to_annotations(stream):
     part = stream.parts[0]
     list_annotation = []
